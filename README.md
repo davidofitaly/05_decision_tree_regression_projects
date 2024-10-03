@@ -29,6 +29,7 @@ This project applies decision tree regression to predict diabetes levels based o
 - Correlation Analysis
 - Division of Data into Training and Test Sets
 - Regression of Decision Trees
+- Model evaluation - with best parametres
 
 ## Clone the Repository
 
